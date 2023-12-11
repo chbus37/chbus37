@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-Soy [Christian, un apasionado desarrollador frontend trainee en formación. ¡Bienvenido a mi rincón de código en GitHub! 🚀
+Soy Christian, un apasionado desarrollador frontend trainee en formación. ¡Bienvenido a mi rincón de código en GitHub! 🚀
 
 ## Acerca de mí
 
