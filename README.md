@@ -20,7 +20,7 @@ Soy Christian, un apasionado desarrollador frontend trainee en formación. ¡Bie
 
 ¡Me encantaría conectarme con vos! No dudes en contactarme a través de:
 
-- 📧 Correo Electrónico: christianbus@gmail.com
+- 📧 Correo Electrónico: christianbus37@gmail.com
 - 💼 LinkedIn: [christiansbustos](https://www.linkedin.com/in/christiansbustos/)
 
 ¡Gracias por visitar mi perfil! Espero que encuentres algo interesante por aquí. 😊
