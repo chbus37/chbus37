@@ -11,6 +11,7 @@ Soy Christian, un apasionado desarrollador frontend trainee en formación. ¡Bie
 ## Habilidades
 
 - HTML5, CSS3, JavaScript
+- TypeScript (en proceso de aprendizaje)
 - React.js (en proceso de aprendizaje)
 - Git/GitHub
 - Diseño responsivo y accesibilidad web
@@ -23,4 +24,4 @@ Soy Christian, un apasionado desarrollador frontend trainee en formación. ¡Bie
 - 📧 Correo Electrónico: christianbus37@gmail.com
 - 💼 LinkedIn: [christiansbustos](https://www.linkedin.com/in/christiansbustos/)
 
-¡Gracias por visitar mi perfil! Espero que encuentres algo interesante por aquí. 😊
+¡Gracias por visitar mi perfil! Espero que encuentres algo interesante y juntos podamos trabajar. 😊
