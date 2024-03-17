@@ -4,7 +4,7 @@ Soy Christian, un apasionado desarrollador frontend trainee en formación. ¡Bie
 
 ## Acerca de mí
 
-- 🌱 Tengo conocimientos solidos en HTML, CSS, Bootstrap. Me encuentro afirmando conocimientos y prácticas en JS y React.
+- 🌱 Tengo conocimientos solidos en HTML, CSS, Bootstrap,Tailwind CSS. Me encuentro afirmando conocimientos y prácticas en JS y React.
 - 💡 Me encanta explorar nuevas tecnologías y aprender sobre las últimas tendencias en desarrollo web.
 - 🔍 Buscando oportunidades para colaborar en proyectos emocionantes y desafiantes.
 
