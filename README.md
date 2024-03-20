@@ -1,4 +1,4 @@
-# 💫 Sobre mi:
+# 💫 About me:
 I'm Christian, a passionate frontend trainee developer in training. Welcome to my code corner on GitHub! 🚀
 
 My passion for Frontend goes beyond the code. I love collaborating in multidisciplinary teams, where I can contribute my creativity and vision to turn ideas into reality. I firmly believe in the power of collaboration and communication to drive projects towards success.
