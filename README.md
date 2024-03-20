@@ -1,6 +1,9 @@
 # 💫 Sobre mi:
-Soy Christian, un apasionado desarrollador frontend trainee en formación. ¡Bienvenido a mi rincón de código en GitHub! 🚀<br><br>Mi pasión por el Frontend va más allá del código. Me encanta colaborar en equipos multidisciplinarios, donde puedo aportar mi creatividad y mi visión para convertir ideas en realidad. Creo firmemente en el poder de la colaboración y la comunicación para impulsar proyectos hacia el éxito.<br><br>Estoy en busca de oportunidades que me desafíen, donde pueda aplicar mis habilidades y seguir creciendo profesionalmente. Si estás buscando un desarrollador Frontend entusiasta y comprometido que esté listo para sumergirse en proyectos emocionantes, ¡entonces no dudes en contactarme!
+I'm Christian, a passionate frontend trainee developer in training. Welcome to my code corner on GitHub! 🚀
 
+My passion for Frontend goes beyond the code. I love collaborating in multidisciplinary teams, where I can contribute my creativity and vision to turn ideas into reality. I firmly believe in the power of collaboration and communication to drive projects towards success.
+
+I am seeking opportunities that challenge me, where I can apply my skills and continue to grow professionally. If you're looking for an enthusiastic and committed Frontend developer who is ready to dive into exciting projects, then feel free to contact me!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christiansbustos) 
